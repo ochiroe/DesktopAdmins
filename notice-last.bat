@@ -36,7 +36,7 @@ exit /b
      APPLICATIONNAME="HSS"
 	 BORDER="thin"
 	 CONTEXTMENU="no"
-	 ICON="\\srjapppv369\SCCM\Sources\Application\kb.ico" 
+	 ICON="http://localhost/kb.ico" 
 	 APPLICATIONNAME="Centered HTA"
 	 MAXIMIZEBUTTON="no"
      MINIMIZEBUTTON="no"
@@ -52,37 +52,7 @@ window.moveTo((screen.width - 600) / 2, (screen.height - 500) / 2);
 <body>
 
 <div style="text-align: justify;">
-			<span style="font-family:times new roman,times,serif;"><span style="font-size:14px;">Сайн байна уу,</span></span></div>
-		<div style="text-align: justify;">
-			&nbsp;</div>
-		<div style="text-align: justify;">
-			<span style="font-family:times new roman,times,serif;"><span style="font-size:14px;">2017.07.21-ний өдрийн ажлын цагын дараа таны компьютерийн нэрийг автоматаар солих тул та компьютераа асаалттай үлдээнэ үү!!!</span></span></div>
-		<div style="text-align: justify;">
-			&nbsp;</div>
-		<div style="text-align: justify;">
-			<span style="font-family:times new roman,times,serif;"><span style="font-size:14px;">Баярлалаа,</span></span></div>
-		<div style="text-align: justify;">
-			<span style="font-family:times new roman,times,serif;"><span style="font-size:14px;"><strong>МТПНЧГ-Десктоп удирдлагын баг</strong></span></span></div>
-		<div style="text-align: justify;">
-			&nbsp;</div>
-		<div style="text-align: justify;">
-			<span style="font-family:times new roman,times,serif;"><span style="font-size:14px;">...................................................................................................................................</span></span></div>
-		<div style="text-align: justify;">
-			&nbsp;</div>
-		<div style="text-align: justify;">
-			&nbsp;</div>
-		<div style="text-align: justify;">
-			<span style="font-family:times new roman,times,serif;"><span style="font-size:14px;">Hello dear,</span></span></div>
-		<div style="text-align: justify;">
-			&nbsp;</div>
-		<div style="text-align: justify;">
-			<span style="font-family:times new roman,times,serif;"><span style="font-size:14px;">On 2017-Jul-21, after work hours we are going to change computer names automatically. When you leave, please keep your computer turn on!!!</span></span></div>
-		<div style="text-align: justify;">
-			&nbsp;</div>
-		<div style="text-align: justify;">
-			<span style="font-family:times new roman,times,serif;"><span style="font-size:14px;">Thank you for your cooperation,</span></span></div>
-		<div style="text-align: justify;">
-			<span style="font-family:times new roman,times,serif;"><span style="font-size:14px;"><strong>ITQAD-Desktop management team&nbsp;</strong></span></span></div>
+<p> Your Text Here!!!</p>
 		<div>
 			&nbsp;</div>
 
